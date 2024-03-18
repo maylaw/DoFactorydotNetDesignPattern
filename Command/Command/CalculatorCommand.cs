@@ -2,7 +2,7 @@
 namespace DoFactory.GangOfFour.Command.RealWorld
 {
     /// <summary>
-    /// The 'ConcreteCommand' class test
+    /// The 'ConcreteCommand' class
     /// </summary>
     class CalculatorCommand : ICommand
     {
